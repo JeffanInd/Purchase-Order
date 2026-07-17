@@ -7220,8 +7220,6 @@ const data = {
                 }
             };
 // ================= BACK BUTTON =================
-
-
             function hitungAQL(qty) {
                 if (qty <= 8) return 2;
                 if (qty <= 15) return 3;
