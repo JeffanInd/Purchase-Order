@@ -7353,7 +7353,11 @@ const data = {
                     poSelect.dispatchEvent(new Event("change"));
                 }
  });
+function backToGallery() {
+                window.location.href = "https://jeffanind.github.io/Gallery-Item-Product/";
+            }
 function backToApp1() {
                 window.location.href = "https://boetepaythea-sudo.github.io/Inspection-App/";
             }
+
 
