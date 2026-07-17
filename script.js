@@ -7220,9 +7220,7 @@ const data = {
                 }
             };
 // ================= BACK BUTTON =================
-function backToApp1() {
-                window.location.href = "https://boetepaythea-sudo.github.io/Inspection-App/";
-            }
+
 
             function hitungAQL(qty) {
                 if (qty <= 8) return 2;
@@ -7356,5 +7354,8 @@ function backToApp1() {
                     poSelect.selectedIndex = index + 1;
                     poSelect.dispatchEvent(new Event("change"));
                 }
-
+ });
+function backToApp1() {
+                window.location.href = "https://boetepaythea-sudo.github.io/Inspection-App/";
+            }
 
