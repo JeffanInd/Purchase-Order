@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
 const data = {
             
                 "CG2512-01": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-03-05",
                     items: [
                         {
@@ -103,7 +103,7 @@ const data = {
                     ]
                 },
                 "CG2512-04": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-02-16",
                     items: [
                         {
@@ -175,7 +175,7 @@ const data = {
                     ]
                 },
                 "CG2512-05": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-02-16",
                     items: [
                         {
@@ -247,7 +247,7 @@ const data = {
                     ]
                 },
                 "CG2512-06": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-02-16",
                     items: [
                         {
@@ -319,7 +319,7 @@ const data = {
                     ]
                 },
                 "CG2512-07": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-02-16",
                     items: [
                         {
@@ -391,7 +391,7 @@ const data = {
                     ]
                 },
                 "CG2512-08": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-02-16",
                     items: [
                         {
@@ -997,7 +997,7 @@ const data = {
                     ]
                 },
                 "CG2601-03": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-03-05",
                     items: [
                         {
@@ -1045,7 +1045,7 @@ const data = {
                     ]
                 },
                 "CG2601-04": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-03-05",
                     items: [
                         {
@@ -1093,7 +1093,7 @@ const data = {
                     ]
                 },
                 "CG2601-05": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-03-05",
                     items: [
                         {
@@ -1159,7 +1159,7 @@ const data = {
                     ]
                 },
                 "CG2601-06": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-03-05",
                     items: [
                         {
@@ -1513,7 +1513,7 @@ const data = {
                     ]
                 },
                 "CG2602-01": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-04-24",
                     items: [
                         {
@@ -1567,7 +1567,7 @@ const data = {
                     ]
                 },
                 "CG2602-02": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-04-24",
                     items: [
                         {
@@ -1754,7 +1754,7 @@ const data = {
                     ]
                 },
                 "CG2603-01": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-5-25",
                     items: [
                         {
@@ -1856,7 +1856,7 @@ const data = {
                     ]
                 },
                 "CG2603-02": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-6-25",
                     items: [
                         {
@@ -2278,7 +2278,7 @@ const data = {
                     ]
                 },
                     "CG2607-04":  {
-                        Vendor: "V70 CV. Jati Visions Raya",
+                        Vendor: "V70 CV. JATI VISIONS RAYA",
                         ecrd: "2026-10-6",
                         items: [
                             {
@@ -2345,7 +2345,7 @@ const data = {
                     ]
                 },
                         "CG2607-05":  {
-                        Vendor: "V70 CV. Jati Visions Raya",
+                        Vendor: "V70 CV. JATI VISIONS RAYA",
                         ecrd: "2025-10-13",
                         items: [
                             {
@@ -3783,7 +3783,7 @@ const data = {
                     ]
                 },
                 "JW 2512-05N": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-02-23",
                     items: [
                         {
@@ -3867,7 +3867,7 @@ const data = {
                     ]
                 },
                 "JW 2512-06N": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-02-23",
                     items: [
                         {
@@ -4960,7 +4960,7 @@ const data = {
                     ]
                 },
                 "JW 2601-12N": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-03-12",
                     items: [
                         {
@@ -5008,7 +5008,7 @@ const data = {
                     ]
                 },
                 "JW 2601-13N": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-03-12",
                     items: [
                         {
@@ -5062,7 +5062,7 @@ const data = {
                     ]
                 },
                 "JW 2601-14N": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-03-12",
                     items: [
                         {
@@ -5140,7 +5140,7 @@ const data = {
                     ]
                 },
                 "JW 2601-16": {
-                    Vendor: "V73 CV Infinite Rattan Creation",
+                    Vendor: "V73 Infinite Rattan Creation, CV",
                     ecrd: "2026-04-24",
                     items: [
                         {
@@ -5182,7 +5182,7 @@ const data = {
                     ]
                 },
                 "JW 2601-17N": {
-                    Vendor: "V73 CV Infinite Rattan Creation",
+                    Vendor: "V73 Infinite Rattan Creation, CV",
                     ecrd: "2026-04-24",
                     items: [
                         {
@@ -6604,7 +6604,7 @@ const data = {
                     ]
                 },
                 "JW 2602-13N": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-05-15",
                     items: [
                         {
@@ -6646,7 +6646,7 @@ const data = {
                     ]
                 },
                 "JW 2602-14N": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-05-15",
                     items: [
                         {
@@ -6712,7 +6712,7 @@ const data = {
                     ]
                 },
                 "JW 2602-15N": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-05-15",
                     items: [
                         {
@@ -6766,7 +6766,7 @@ const data = {
                     ]
                 },
                 "JW 2602-16N": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-05-15",
                     items: [
                         {
@@ -7072,7 +7072,7 @@ const data = {
                     ]
                 },
                 "JW 2603-02N": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-06-25",
                     items: [
                         {
@@ -7138,7 +7138,7 @@ const data = {
                     ]
                 },
                 "JW 2603-03N": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-06-25",
                     items: [
                         {
@@ -8337,7 +8337,7 @@ const data = {
                 },
 
                 "JW 2606-22N":  {
-                    Vendor: "V70 CV. Jati Visions Raya",
+                    Vendor: "V70 CV. JATI VISIONS RAYA",
                     ecrd: "2026-09-25",
                     items: [
                         {
@@ -8393,7 +8393,7 @@ const data = {
                 },
 
                 "JW 2606-23N":  {
-                    Vendor: "V70 CV. Jati Visions Raya",
+                    Vendor: "V70 CV. JATI VISIONS RAYA",
                     ecrd: "2026-09-28",
                     items: [
                         {
@@ -9474,7 +9474,7 @@ const data = {
                     ]
                 },
                 "JW 2607-23":  {
-                    Vendor: "V70 CV. Jati Visions Raya",
+                    Vendor: "V70 CV. JATI VISIONS RAYA",
                     ecrd: "2026-10-15",
                     items: [
                         {
@@ -9535,7 +9535,7 @@ const data = {
                 },
 
                 "JW 2607-24N":  {
-                    Vendor: "V70 CV. Jati Visions Raya",
+                    Vendor: "V70 CV. JATI VISIONS RAYA",
                      ecrd: "2026-10-19",
                     items: [
                         {
