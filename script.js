@@ -3735,7 +3735,7 @@ const data = {
                     ]
                 },
                 "JW 2512-04N": {
-                    Vendor: "V68 PT. FURNILAC PRIMAGUNA",
+                    Vendor: "V68 PT. Furnilac Primaguna",
                     ecrd: "2026-02-23",
                     items: [
                         {
