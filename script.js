@@ -9886,7 +9886,7 @@ const data = {
                     {
                     item: "OC-5822-MBR",
                     qty:  25,
-                    desc: "OC24-001-MBR // 	Winston II Rattan Arm Chair, 39 Inch H, Medium Brown (24x 25.5 x 39.25) //  // Materials: Rattan Semi Poles & Core // Finish Code: MBR, Finish Name: Medium Brown // Set Up  // CBM: 0.302 // Number of Shipping Boxes: 1 //  Container Packed Via: Stacked Single Wall Wrapped with Cartons Included.  ***Must Include Cartons In Container*** // ***SOFFA COMPLIANCE REQUIRED*** //"","
+                    desc: "OC24-001-MBR // 	Winston II Rattan Arm Chair, 39 Inch H, Medium Brown (24x 25.5 x 39.25) //  // Materials: Rattan Semi Poles & Core // Finish Code: MBR, Finish Name: Medium Brown // Set Up  // CBM: 0.302 // Number of Shipping Boxes: 1 //  Container Packed Via: Stacked Single Wall Wrapped with Cartons Included.  ***Must Include Cartons In Container*** // ***SOFFA COMPLIANCE REQUIRED*** //",
                     image: "https://6694454.app.netsuite.com/c.6694454/item-images/OC-5822-MBR_001.jpg"
                     },
                     {
