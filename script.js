@@ -1058,7 +1058,7 @@ const data = {
                     ]
                 },
                 "CG2609-03": {
-                    Vendor: "V70 CV. Jati Visions Raya",
+                    Vendor: "V70 CV. JATI VISIONS RAYA",
                     ecrd: "2026-11-25",
                     items: [
                         {
@@ -1106,7 +1106,7 @@ const data = {
                     ]
                 },
                 "CG2609-04": {
-                    Vendor: "V70 CV. Jati Visions Raya",
+                    Vendor: "V70 CV. JATI VISIONS RAYA",
                     ecrd: "2026-11-30",
                     items: [
                         {
